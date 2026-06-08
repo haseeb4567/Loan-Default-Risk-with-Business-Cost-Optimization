@@ -1,0 +1,2 @@
+# Loan-Default-Risk-with-Business-Cost-Optimization
+Loan Default Risk with Business Cost Optimization is a machine learning project that predicts loan default probability and minimizes financial losses using cost-sensitive learning. It includes preprocessing, feature engineering and models Logistic Regression&amp;Random Forest. Evaluation uses F1-score ROC-AUC&amp;business cost to optimize lending decisions
